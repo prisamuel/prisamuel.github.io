@@ -5,7 +5,7 @@ locale: en_UK
 description: ...about all things interesting.
 logo: site-logo.png
 search: true
-url: http://prisamuel.github.io
+url: https://prisamuel.github.io
 
 # Jekyll configuration
 
