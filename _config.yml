@@ -1,11 +1,9 @@
 # Site wide configuration
 
-title: Priya Samuel
 locale: en_UK
-description: ...about all things interesting.
-logo: site-logo.png
 search: true
 url: https://prisamuel.github.io
+# url: http://127.0.0.1:4000
 
 # Jekyll configuration
 
@@ -37,8 +35,8 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 # Site owner
 owner:
   name: Priya Samuel
-  avatar: bio-photo.jpg
+  avatar: bio-photo.png
   email: priya@technocat.org.uk
   disqus-shortname:
-  twitter: #priyachandran
-  github: #prisamuel
+  twitter: priyachandran
+  github: prisamuel

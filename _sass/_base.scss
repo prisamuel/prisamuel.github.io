@@ -162,6 +162,11 @@ figure {
   }
 }
 
+.center-image {
+	margin: 0 auto;
+	display: block;
+}
+
 svg:not(:root) {
   overflow: hidden;
 }
