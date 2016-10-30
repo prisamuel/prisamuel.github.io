@@ -4,7 +4,6 @@ title: "Exponentially decaying weighted moving average"
 modified:
 categories: blog
 excerpt:
-tags: []
 image:
   feature:
 date: 2010-04-02T08:08:50-04:00
