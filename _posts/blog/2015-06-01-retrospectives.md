@@ -43,12 +43,14 @@ The prime directive of a retrospective is often stated at the very start.
 
 Productive teams are those which have [Psychological safety](http://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html?_r=0). It is ‘a sense of confidence that the team will not embarrass, reject or punish someone for speaking up’. Ensuring that there is safety in the room is critical. It's often a mistake to assume that there is safety in the room. An easy way to establish this is to do an anonymous poll with the participants about their comfort level about speaking up.
 
-1. Freebird - Can freely express my opinions without fear of judgement.
-2. Cruiser - Can express some of my opinions freely without fear of judgement.
-3. Neutral observer - I neither feel free nor captive. I'm a mere observer.
-4. Prisoner - I do not feel at ease to express my opinions.
+Participants choose from one of the following levels of safety.
 
-An anonymous poll will give the facilitator and the team an idea of safety. It would not be a good idea to continue a retrospective with a lot of Prisoners in the room, lest it be a silent and ineffective retrospective.
+1. Freebird - "I can freely express my opinions without fear of judgement".
+2. Cruiser - "I can express some of my opinions freely without fear of judgement".
+3. Neutral observer - "I'm a mere observer. I neither feel free nor captive".
+4. Prisoner - "I do not feel at ease to express my opinions".
+
+An anonymous poll with results tallied up will give the facilitator and the team an idea of safety. It would not be a good idea to continue a retrospective with a lot of Prisoners in the room, lest it be a silent and ineffective retrospective.
 
 ###### Discussion
 After gathering insights, make sure you plan enough time for discussion. Time box each discussion item to make sure you can adequately cover all topics of discussion.
