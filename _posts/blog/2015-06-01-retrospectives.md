@@ -4,7 +4,6 @@ title: "Running Agile Retrospectives"
 modified:
 categories: blog
 excerpt:
-tags: [retrospective]
 image:
   feature:
 date: 2015-04-01T08:08:50-04:00
