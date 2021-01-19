@@ -1,4 +1,8 @@
-# Blog using Jekyll and So Simple theme from https://github.com/mmistakes/so-simple-theme
+# Personal Blog site
+
+This site is published at https://prisamuel.github.io/
+
+This site is built using Jekyll and So Simple theme from https://github.com/mmistakes/so-simple-theme
 
 To run the blog locally
 

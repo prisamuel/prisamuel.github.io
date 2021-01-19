@@ -5,7 +5,28 @@ excerpt: "My CV"
 modified: 2016-09-29T19:34:38.564948-04:00
 ---
 
-Here's a [pdf]({{site.url}}/images/Priya_Samuel_CV_TW_09-2016_public.pdf) version. You can find me [here on LinkedIn](www.linkedin.com/in/priyasamuel).
+Here's a [pdf]({{site.url}}/images/Priya_Samuel_CV_2020.pdf) version. You can also find me on [LinkedIn](https://www.linkedin.com/in/samuel-priya/).
+
+##### VP of Engineering, Dotscience, (Aug 2019 - Aug 2020) 
+Technical Leadership, strategy and enablement - Led a team of exceptionally talented individuals, building an end-to- end data science platform. Ensured the team had clear technical direction, fast feedback cycles, and iterative feature development.
+
+Making work visible - I prioritised making the engineering process “our own” i.e making it agile and flexible enough to cater for the needs of various engineering teams. I 'broadcasted' ongoing work via various channels, making sure blockers were addressed quickly, and product/UX/engineering were all in sync.
+
+Cultivated psychological safety within the team by setting clear goals, de-stigmatising failures, inviting participation around team and technology decisions, and conflict resolution.
+
+Supported career development and performance reviews for a team of 12 engineers. 
+
+##### Member Of Technical Staff (Jan 2018 - Aug 2020)
+
+Co-ordinating and overseeing the overall the end-to-end architecture for services delivering the Dotscience platform. #Go #AWS #GCP #Postgres #Kubernetes
+
+Implemented GoLang services that powered the backend of Dotscience. This comprised of multiple microservices that communicated via HTTP / GRPC to enable users to develop, build, deploy and monitor Tensorflow models.
+
+Instrumented Terraform to automate cloud deployments, worked extensively on AWS, Google Cloud, and on-prem installs.
+
+Kubernetes orchestration (within GKE and EKS) and managing automated deployments of cloud native applications.
+
+Set up CI/CD and support, operational maintenance of live systems, using Drone and GitLab.
 
 ##### Senior Consultant & Tech Lead, [ThoughtWorks](https://www.thoughtworks.com/), London (July 2013 - present)
 
